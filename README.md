@@ -55,6 +55,6 @@ The project includes modules with the following functionalities:
 · Trace diagram for tracking bidding for an item<br />
 
 #Pre-Requisites to run the project:
-· Install NodeJS, RabbitMQ, MySQL, MongoDB, Redis. Run these as services.<br /><br />
+· Install NodeJS, RabbitMQ, MySQL, MongoDB, Redis. Run these as services.<br />
 · Run npm install for all package.json files.<br />
 · Run node servers for both rabbitMQ service and express client and access through http://localhost:3000<br />
