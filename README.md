@@ -1,6 +1,7 @@
 # Online-Peer-to-Peer-Homestay-Network
 
 Reference has been taken from AirBnB website.
+This application is made just for the purpose of learning new concepts.
 
 The project includes modules with the following functionalities:
 <h3>User Module/Service:</h3>
