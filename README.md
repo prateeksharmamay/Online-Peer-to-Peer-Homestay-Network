@@ -4,7 +4,7 @@ Reference has been taken from AirBnB website.
 
 The project includes modules with the following functionalities:
 <h3>User Module/Service:</h3>
-· Create a new User (Reference AirBnb websites for fields informaton)<br />]
+· Create a new User (Reference AirBnb websites for fields informaton)<br />
 · Delete an existing User<br />
 · User can place the bid<br />
 · Change a user’s information (name, address,profile image etc) – This function must support the ability to change ALL attributes<br />
@@ -52,9 +52,9 @@ The project includes modules with the following functionalities:
 · Capture the area which is less seen.<br />
 · Graph for reviews on properties (Data from database)<br />
 · Trace diagram for tracking one user or a group of users (ex. Users from San Jose, CA)<br />
-6) Trace diagram for tracking bidding for an item
+· Trace diagram for tracking bidding for an item<br />
 
 #Pre-Requisites to run the project:
-1) Install NodeJS, RabbitMQ, MySQL, MongoDB, Redis. Run these as services.
-2) Run npm install for all package.json files.
-3) Run node servers for both rabbitMQ service and express client and access through http://localhost:3000
+· Install NodeJS, RabbitMQ, MySQL, MongoDB, Redis. Run these as services.<br /><br />
+· Run npm install for all package.json files.<br />
+· Run node servers for both rabbitMQ service and express client and access through http://localhost:3000<br />
